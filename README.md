@@ -6,8 +6,8 @@ Escreva um programa em Python 3 que leia um número real no intervalo aberto (0,
 (quantidade de bits), começando com 5 bits e indo até 16bits, de um em um.A saída deve ser apresentada conforme o modelo abaixo.O erro deve ser mostrado em 
 porcentagem e com 4 casas decimaisImportante: Não é permitido usar nenhuma biblioteca de Python específica para essa conversão. <br>
 <h3>Integrantes do grupo:</h3>
-Gabriel Freire 
-Rafaela Moura (rafaela03moura@gmail.com)
-Nathan Vieira (nathan_vieira.azevedo@hotmail.com)
-Giovanna Nacarato (giovananacarato@live.com)
+Gabriel Freire <br>
+Rafaela Moura (rafaela03moura@gmail.com) <br>
+Nathan Vieira (nathan_vieira.azevedo@hotmail.com) <br>
+Giovanna Nacarato (giovananacarato@live.com) <br>
 
